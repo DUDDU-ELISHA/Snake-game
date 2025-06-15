@@ -1,7 +1,7 @@
 # Snake-game
 
-How the Game Works
-Objective
+How the Game Works:
+Objective:
 The objective of the game is to control a snake on a grid and eat food items to grow in length. The game ends if the snake collides with itself or the boundaries of the game screen.
 
 Setup
